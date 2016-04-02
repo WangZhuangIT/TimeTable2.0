@@ -11,6 +11,7 @@
     android:paddingRight="25dp"
     android:paddingTop="2dp"
     android:text="helloword"
+    android:textColor="#000000"
     android:textSize="19sp" >
 
 </TextView>
