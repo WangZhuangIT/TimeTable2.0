@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">掌心课表</string>
+    <string name="builder_title">请注意！！！</string>
+    <string name="builder_message">由于我校校园网只能内网才能访问，所以使用本软件必须连接到本校的校园网络才可以登录。</string>
+    <string name="builder_ok_button">Got it</string>
+    <string name="builder_ok_button_show">别忘记本软件只能在校园网下使用哟！！！</string>
+    <string name="login_error">请检查您是否连接了校内网络！！！</string>
+</resources>
